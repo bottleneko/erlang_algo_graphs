@@ -1,0 +1,4 @@
+[{<<"erlang_data_structures">>,
+  {git,"https://github.com/bottleneko/erlang_data_structures.git",
+       {ref,"ebc26935dc5d24cc86ae92433d0f926809a6dcc8"}},
+  0}].
